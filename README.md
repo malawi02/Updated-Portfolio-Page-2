@@ -3,4 +3,8 @@ AS A web developer
 
 I WANT a deployed portfolio
 
-SO THAT I can showcase my applications to potential employers and clients
+SO THAT I can showcase my applications to potential employers and clients. 
+
+Links can assessed from Zedekia portfolio pdf.
+
+
